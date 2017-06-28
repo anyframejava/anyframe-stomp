@@ -30,7 +30,7 @@ import org.springframework.stereotype.Controller;
  * 
  * @author Seongjong Yoon
  */
-@Controller("stompMovieFinderStompController")
+@Controller
 public class MovieFinderStompController {
 	private static Logger log = LoggerFactory.getLogger(MovieFinderStompController.class);
 	
